@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/software-verificable-202010/calendar-part-1-hdelafuente#readme",
   "dependencies": {
-    "electron": "^8.2.0"
+    "electron": "^13.6.6"
   }
 }
